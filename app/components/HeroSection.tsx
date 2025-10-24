@@ -13,11 +13,11 @@ const HeroSection = () => {
 					<span className="text-lg md:text-xl text-gray-400 mb-2 block">Hi, I&apos;m</span>
 					<h1 className="text-4xl sm:text-6xl md:text-8xl font-bold mb-4">
 						<span className="bg-gradient-to-r from-blue-400 via-purple-500 to-blue-400 text-transparent bg-clip-text bg-[size:200%] animate-gradient">
-							John Doe
+							Robertinho do grau predador de xereca
 						</span>
 					</h1>
 					<h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-100 to-gray-300">
-						Mobile App Developer
+						244 na veia, bololololo nos puliça, pega nunca, pau tora
 					</h2>
 					<p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed px-4">
 						Crafting exceptional mobile experiences with
